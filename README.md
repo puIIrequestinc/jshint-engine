@@ -1,2 +1,1 @@
-# jshint-engine
-A javascript lint engine using JSHint
+This is bug bounty Hackerone test
